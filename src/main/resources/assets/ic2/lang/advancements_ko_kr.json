@@ -58,7 +58,7 @@
   "advancement.ic2.build_teleporter": "차원 이동",
   "advancement.ic2.build_teleporter.desc": "순간이동기를 만드세요",
   "advancement.ic2.build_terraformer": "세상을 바꾸다",
-  "advancement.ic2.build_terraformer.desc": "지형 생성기를 만드세요",
+  "advancement.ic2.build_terraformer.desc": "지형 변환기를 만드세요",
   "advancement.ic2.build_vacuum_canner": "통조림 공장",
   "advancement.ic2.build_vacuum_canner.desc": "진공 통조림 기계를 만드세요",
   "advancement.ic2.compress_uranium": "방사능의 서막",
@@ -82,5 +82,5 @@
   "advancement.ic2.teleport_far_away": "초음속 이동",
   "advancement.ic2.teleport_far_away.desc": "순간이동기로 1km를 이동하세요",
   "advancement.ic2.terrform_end_cultivation": "여기가 파라다이스",
-  "advancement.ic2.terrform_end_cultivation.desc": "지형 생성기로 엔드를 오버월드처럼 만드세요"
+  "advancement.ic2.terrform_end_cultivation.desc": "지형 변환기로 엔드를 오버월드처럼 만드세요"
 }
