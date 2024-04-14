@@ -606,7 +606,7 @@
   "tooltip.item.ic2.jetpack.jump_to_fly": "비행",
   "tooltip.item.ic2.jetpack.mode_switch": "비행 모드 변경하기",
   "tooltip.item.ic2.jetpack.quick_toggle": "누르는 동안 호버 모드 전환",
-  "tooltip.item.ic2.jetpack.release_rocket": "로켓 충전 방출하기",
+  "tooltip.item.ic2.jetpack.release_rocket": "로켓 발사하기",
   "tooltip.item.ic2.jetpack.rocket_charge": "로켓 충전: %s",
   "tooltip.item.ic2.jetpack.toggle": "제트팩 활성화",
   "tooltip.item.ic2.jetpack.toggle_rocket": "로켓 모드 전환하기",
